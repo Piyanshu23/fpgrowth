@@ -82,10 +82,6 @@ The algorithm outputs:
 - Supports conditional pattern base generation
 - Includes pattern growth and association rule mining
 
-## License
-
-MIT License
-
 ## Contributing
 
 Feel free to open issues or submit pull requests for improvements.
